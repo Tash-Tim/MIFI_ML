@@ -1,4 +1,4 @@
 @echo off
 cd /d "%~dp0"
-reverse_words.py
+python reverse_words.py
 pause
