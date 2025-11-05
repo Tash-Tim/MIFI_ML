@@ -1,0 +1,4 @@
+.idea/
+/main.py
+/sound_code.py
+!/.venv/
